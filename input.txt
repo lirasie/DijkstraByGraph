@@ -1,0 +1,15 @@
+alice bob 5
+
+alice cute 9
+
+bob cute 1
+bob dog 4
+cute enamel 5
+
+cute frog 6
+enamel dog 3
+dog green 8
+
+frog green 7
+
+
